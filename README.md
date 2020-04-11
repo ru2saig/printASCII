@@ -41,7 +41,7 @@ The second value is optional. Omitting it will cause the script to take the defa
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Acknowledgments
 
@@ -52,3 +52,4 @@ dignified-and-mad-cat.jpg : Photo by Pixabay from Pexels (orignal name : Short-f
 pillow-logo.jpeg : https://github.com/python-pillow/pillow-logo (edited)
 python-logo.jpeg : https://www.python.org/community/logos/ (edited)
 value-chart.png: me. i is make it.
+
