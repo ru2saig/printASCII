@@ -28,7 +28,7 @@ Any images you want to make ASCII art out of must go in the /res folder
 
 Demo:
 
-This snippet shows an example of how to use the script to generate ASCII art
+This snippet shows an example of how to use the script to generate ASCII art:
 
 ```
 $python value-chart.png 1
@@ -38,6 +38,8 @@ The first one being the name of the file (with extension) is the first
 and the second one being the scale factor, which is how much you would like the image to be scaled. 
 The second value is optional. Omitting it will cause the script to take the default value of 1 (the image is not scaled)
 
+
+Note: Any image files you want to convert using the script MUST be placed in the /res folder. And all outputs will go to the /output folder
 
 ## License
 
