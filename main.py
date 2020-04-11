@@ -36,15 +36,12 @@ except IndexError:
 
 img = img.convert("L") #converts the image into grayscale
 width,height = img.size
-ratio = round(width/height,3) #finds the aspect ratio
+ 	
+scaled_width = int(width*float(scale_factor))
+scaled_height = int(height*float(scale_factor))
 
-ratio*=float(scale_factor)#scales the image 
-
-
-scaled_height = int(height*ratio) 
-scaled_width = int(width*ratio)
-
-
+print(f"Original Height{height}")
+print(f"Original Width{width}")
 print(f"Scaled height {scaled_height} px")
 print(f"Scaled width {scaled_width} px")
 
@@ -62,7 +59,7 @@ for y in range(scaled_height):
 				
 	f.write('\n') #after every line of the photo
 
-#becuase etiquette
+#because etiquette
 scaled_img.close()
 f.close()
 
