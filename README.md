@@ -50,10 +50,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Image credits:
 
 awwww-it's-so-cute.jpg : Photo by Tranmautritam from Pexels (original name: Gray and White Kitten on White Bed)
-
 dignified-and-mad-cat.jpg : Photo by Pixabay from Pexels (orignal name : Short-fur Black, Orange, and Gray Cat)
-
 pillow-logo.jpeg : https://github.com/python-pillow/pillow-logo (edited)
-
 python-logo.jpeg : https://www.python.org/community/logos/ (edited)
 
