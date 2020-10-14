@@ -57,5 +57,3 @@ pillow-logo.jpeg : https://github.com/python-pillow/pillow-logo (edited)
 
 python-logo.jpeg : https://www.python.org/community/logos/ (edited)
 
-value-chart.png: me. i is make it.
-
