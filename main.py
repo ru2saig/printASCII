@@ -64,10 +64,10 @@ scaled_img.close()
 f.close()
 
 
-if os.name is 'nt':
-	subprocess.call(("notepad.exe", file_path))#Windows 
-elif os.name is 'posix':
-	subprocess.call(('xdg-open',file_path))#Linux
+if os.name == 'nt':
+	subprocess.call(("type", file_path))#Windows 
+elif os.name == 'posix':
+	subprocess.call(('cat',file_path))#Linux
 
 
 
