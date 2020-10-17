@@ -1,3 +1,13 @@
+"""
+to-do:
+    export as an image? instead of a textfile
+    make everything into littel neat functions
+    add better documentation?
+    remove the cat part? or instead directly print to stddout?
+
+"""
+
+
 import sys,os
 import math
 import logging		
