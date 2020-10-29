@@ -1,5 +1,7 @@
 """
 to-do:
+    also change the algorithm? Instead of resizing, why not apply a blur on the image and then replace each colored "pixel block" with the
+    proper character from the value_scale? and then create an image from that? 
     export as an image? instead of a textfile
     make everything into littel neat functions
     add better documentation?
